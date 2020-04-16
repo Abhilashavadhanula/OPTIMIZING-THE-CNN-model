@@ -1,2 +1,3 @@
 # OPTIMIZING-THE-CNN-model
-OPTIMIZING THE CNN model by keras VGG16
+OPTIMIZING THE CNN model by keras
+
